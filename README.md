@@ -9,10 +9,10 @@ The website highlights aesthetic design, smooth animations, and strong visual hi
 
 ## 🚀 Tech Stack
 
-* React.js
-* Tailwind CSS
-* JavaScript
-* Framer Motion (for animations)
+- React.js
+- Tailwind CSS
+- JavaScript
+- Framer Motion for animations
 
 ## 🎯 Purpose
 
@@ -22,17 +22,17 @@ This project was created for learning and practice, especially to improve my ski
 
 This project was inspired and guided by a tutorial from YouTube:
 
-* OaliuCode
+- OaliuCode
 
 All credits for the original tutorial and guidance go to the creator. This project is a personal implementation and adaptation for learning purposes.
 
 ## ✨ Features
 
-* Elegant and modern UI design
-* Smooth animations with Framer Motion
-* Responsive layout for all devices
-* Clean and structured visual hierarchy
-* Interactive components
+- Elegant and modern UI design
+- Smooth animations with Framer Motion
+- Responsive layout for all devices
+- Clean and structured visual hierarchy
+- Interactive components
 
 ---
 
