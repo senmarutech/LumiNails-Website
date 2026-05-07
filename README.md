@@ -20,9 +20,7 @@ This project was created for learning and practice, especially to improve my ski
 
 ## 📚 Learning Source
 
-This project was inspired and guided by a tutorial from YouTube:
-
-- OaliuCode
+This project was inspired and guided by a tutorial from YouTube
 
 All credits for the original tutorial and guidance go to the creator. This project is a personal implementation and adaptation for learning purposes.
 
