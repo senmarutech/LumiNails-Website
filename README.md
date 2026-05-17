@@ -32,6 +32,11 @@ All credits for the original tutorial and guidance go to the creator. This proje
 - Clean and structured visual hierarchy
 - Interactive components
 
+## Mock Up LumiNails Website
+
+<img width="1920" height="960" alt="work4" src="https://github.com/user-attachments/assets/f107f794-1a1d-4537-b064-9db55e27827e" />
+
+
 ---
 
 💡 *This project is part of my continuous learning journey in web development.*
