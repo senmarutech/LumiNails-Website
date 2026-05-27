@@ -32,6 +32,15 @@ All credits for the original tutorial and guidance go to the creator. This proje
 - Clean and structured visual hierarchy
 - Interactive components
 
+## 🚀 How to Run a Project ? Lets start
+If you want to try this project on your local computer without using Git, follow these steps :
+1. Download Source Code
+   - Click the green Code button at the top right of this GitHub repository page.
+   - Select Download ZIP.
+   - Extract the downloaded ZIP file into a folder on your computer.
+2. Open Project Folder in Terminal
+
+
 ## Mock Up LumiNails Website
 
 <img width="1920" height="960" alt="work4" src="https://github.com/user-attachments/assets/f107f794-1a1d-4537-b064-9db55e27827e" />
