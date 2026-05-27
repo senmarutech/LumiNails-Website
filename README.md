@@ -39,11 +39,11 @@ If you want to try this project on your local computer without using Git, follow
    - Select Download ZIP.
    - Extract the downloaded ZIP file into a folder on your computer.
 2. Open Project Folder in Terminal
-   - Open your terminal (Git Bash or PowerShell) and navigate into the extracted folder using the cd command (cd LumiNails-Website)
+   - Open your terminal (Git Bash or PowerShell) and navigate into the extracted folder using the cd command : cd LumiNails-Website
 3. Install All Dependencies
    - Run this command to automatically install all required packages (Vite, Tailwind v4, React Icons, Lucide, Framer Motion) listed in the project (npm install).
 4. Run the Application
-   - Once the installation is complete, start the local development server with this command (npm run dev).
+   - Once the installation is complete, start the local development server with this command : npm run dev.
    - Now, open your browser and go to (http://localhost:5173) to view the live project.
 
 ## Mock Up LumiNails Website
