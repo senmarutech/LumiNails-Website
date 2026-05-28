@@ -2,6 +2,10 @@
 
 ---
 
+## 💻 Mock Up LumiNails Website
+
+<img width="1920" height="960" alt="work4" src="https://github.com/user-attachments/assets/f107f794-1a1d-4537-b064-9db55e27827e" />
+
 A web-based nail art website project focused on delivering a modern, elegant, and visually engaging user interface.
 This project was built as part of my learning journey in React, where I developed the application while following and adapting a tutorial for educational purposes.
 
@@ -46,10 +50,9 @@ If you want to try this project on your local computer without using Git, follow
    - Once the installation is complete, start the local development server with this command : npm run dev.
    - Now, open your browser and go to (http://localhost:5173) to view the live project.
 
-## Mock Up LumiNails Website
+## 📸 Demo
 
-<img width="1920" height="960" alt="work4" src="https://github.com/user-attachments/assets/f107f794-1a1d-4537-b064-9db55e27827e" />
-
+https://github.com/user-attachments/assets/ce7c1261-4cb7-420e-bb8b-dedd212d2800
 
 ---
 
